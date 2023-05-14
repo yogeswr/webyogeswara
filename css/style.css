@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Sora:wght@700&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+body{
+  background-color: #272727;
+}
+
+/* Nav Bar */
+nav{
+  background-color: #272727;
+}
+
+.box-nav{
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.logo{
+  font-family: "Sora";
+  font-size: 24px;
+}
+
+#nav-list a{
+  color: #c9c9c9;
+}
+
+#nav-list a:hover{
+  color: #ffffff;
+}
+
+.content{
+  margin-top: 94px;
+}
+
+/* about */
+.about{
+  width: 94%;
+}
+
+/* content */
+.desc{
+  font-family: "Sora";
+  font-weight: 700;
+  color: #4ca9ff;
+  font-size: 46px;
+  line-height: 72px;
+  letter-spacing:1px;
+}
+
+/* BIO */
+.bio h3 {
+  font-family: "Sora";
+  font-size: 28px;
+}
+
+.bio p {
+  color: #ffffff;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.biography{
+  padding-top: 3em;
+}
+
+/* sosial media */
+.social-media h3 {
+  font-family: "Sora";
+  font-size: 28px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.social-media a{
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.social-media a:hover{
+  color: #4ca9ff;
+}
+
+/* deskripsi */
+.deskripsi{
+  margin-top: 90px;
+}
+
+.deskripsi h4{
+  font-family: "Sora";
+  font-size: 28px;
+}
+
+.deskripsi p{
+  text-align: justify;
+  line-height: 32px;
+}
+
+.card-custom{
+  background-color: #323443;
+  width: 45%;
+  margin-left: 5%;
+}
+
+.card-icon{
+  padding: 20px;
+  position: absolute;
+  top: -30px;
+  background-color:#323443;
+}
+
+/* skill */
+.skill{
+  padding-top: 100px;
+}
+
+.skill h3{
+  font-family: "Sora";
+  font-size: 48px;
+}
+
+.card-skill{
+  background-color: #323443;
+  height: 272px;
+}
+
+.card-skill h4{
+  font-family: "Sora";
+  font-size: 28px;
+}
+
+.card-skill i{
+  font-size: 48px;
+  margin-right: 15px;
+}
+
+.card-skill p{
+  text-align: justify;
+}
+
